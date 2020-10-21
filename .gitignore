@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/*
+agents/__pycache__/*
+game/__pycache__/*
+utils/__pycache__/*
+

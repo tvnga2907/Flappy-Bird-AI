@@ -1,0 +1,6 @@
+pygame
+gym==0.15.4
+torch
+torchvision
+opencv-python
+opencv-contrib-python
